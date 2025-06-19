@@ -24,29 +24,6 @@ Este proyecto busca demostrar un flujo de trabajo completo de detección, análi
 
 ---
 
-## ⚙️ Estructura del Repositorio
-
-```
-/Proyecto_Final_Malware
-│
-├── 📁 Evidencias
-│   ├── capturas_misp/
-│   ├── capturas_elastic/
-│   └── iocs_extraidos/
-│
-├── 📁 Documentación
-│   ├── presentacion_final.pdf
-│   └── informe_tecnico.pdf
-│
-├── 📁 Configuración
-│   ├── misp_config/
-│   └── elastic_agent_config/
-│
-└── README.md
-```
-
----
-
 ## 🛠️ Herramientas utilizadas
 
 - 🧪 [Joe Sandbox](https://www.joesandbox.com/)
@@ -70,15 +47,7 @@ Este proyecto busca demostrar un flujo de trabajo completo de detección, análi
 
 ## 📄 Créditos
 
-Este proyecto fue desarrollado por **Jordan Díaz** como parte del bootcamp de Ciberseguridad de **KeepCoding**.
-
----
-
-## 📬 Contacto
-
-Si deseas ponerte en contacto, puedes escribirme a:  
-📧 jordandiaz@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/tuusuario)
+Este proyecto fue desarrollado por **Jordan Díaz y Luis Gongora** como parte del bootcamp de Ciberseguridad de **KeepCoding**.
 
 ---
 
